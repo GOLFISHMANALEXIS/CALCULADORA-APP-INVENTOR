@@ -1,39 +1,39 @@
-# PROYECTO 4 CALCULADORA
+# PROYECTO 4: CALCULADORA
 
-![Una captura de pantalla de una computadora Descripción generada automáticamente](media/2cfac9fc299940ab67e708237305b599.png)
+![Vista](Imagen1.png)
 
 ## OBJETIVO
 
-El objetivo de esta práctica es realizar una calculadora funcional con las siguientes características suma resta multiplicación división potencia raíz y puntos de decimal
+El objetivo de este proyecto es desarrollar una calculadora funcional con las siguientes operaciones: suma, resta, multiplicación, división, potenciación, raíz cuadrada y manejo de puntos decimales.
 
 ## COMPONENTES
 
-## Componentes de la aplicación:
+1. **Etiqueta del resultado:** Este componente muestra el resultado de las operaciones realizadas en la calculadora.
 
-## 
+2. **Números 4, 5 y 6 junto con la función restar:** Se emplean los números 4, 5 y 6 para realizar operaciones de resta.
 
-## Etiqueta del resultado.
+3. **Otro componente que muestra los números 7, 8, 9 y la función sumar:** Permite operar con los números 7, 8 y 9, además de realizar sumas.
 
-## 2. 4 5 y 6 junto con la función restar.
+4. **Componente adicional que muestra la función "punto cero igual" y la operación de división:** Presenta la función "punto cero igual" y permite llevar a cabo operaciones de división.
 
-## 3. Otro componente que muestra la función 7 8 9 y la función sumar.
-
-## 4. Componente adicional que muestra la función punto cero igual y la operación de división.
-
-## 5. Componente de imagen.
-
-## 
-
-## 
-
-## 
-
-## 
+5. **Componente de imagen:** Representa visualmente algún elemento gráfico en la interfaz de la calculadora.
 
 ## BLOQUES
 
-![](media/2a6c64a3074c3dbef9181e3e1f792320.png)
+![Bloques funcionales de la calculadora](imagen2.png)
 
-## Funcionamiento de los bloques
+### Funcionamiento de los bloques
 
-Cada botón agrega la pantalla según su variable 123456789 y se agrega la función que se desee hacer o realizar suma resta multiplicación está a todas las variables I El un botón para limpiar
+Cada botón representa un número o una operación matemática según su etiqueta correspondiente (1-9). Estos botones añaden los dígitos a la pantalla de la calculadora. Se pueden realizar operaciones básicas (suma, resta, multiplicación, división) con estos números. Existe un botón para limpiar la pantalla y reiniciar la operación.
+
+## LINK DE GALERIA
+<a href="https://gallery.appinventor.mit.edu/?galleryid=26d1fa8c-5eed-4239-ace2-6b4b7da5db06" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 2px solid #555; border-radius: 5px; background-color: #007bff; color: #fff; font-size: 16px;" rel="noopener">
+  GALERÍA
+</a>
+
+## link de APK
+<a href="https://drive.google.com/file/d/1sRyzDZdCrmK5Y2iMR0BLCBzIufcC2fic/view?usp=sharing" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 2px solid #555; border-radius: 5px; background-color: #007bff; color: #fff; font-size: 16px;" rel="noopener">
+  APK
+</a>
+
+</center>
